@@ -1,2 +1,4 @@
-# algorithmic-thinking
-big o notation, data structures and algorithms
+# Algorithmic Thinking
+- big o notation
+- data structures
+- algorithms
