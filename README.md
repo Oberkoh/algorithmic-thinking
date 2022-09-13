@@ -1,4 +1,4 @@
 # Algorithmic Thinking
-- big o notation O(n)
-- data structures
-- algorithms
+- Big O Notation O(n)
+- Data Structures
+- Algorithms
